@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace NoBuzz
 {
-    [Plugin(RuntimeOptions.SingleStartInit)]
+    [Plugin(RuntimeOptions.DynamicInit)]
     public class Plugin
     {
         internal static string hid = "com.aurirex.nobuzz";

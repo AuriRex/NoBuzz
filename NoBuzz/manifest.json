@@ -3,7 +3,7 @@
   "id": "NoBuzz",
   "name": "NoBuzz",
   "author": "AuriRex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Removes the Beat Saber logo buzzing sound.",
   "gameVersion": "1.13.4",
   "dependsOn": {
